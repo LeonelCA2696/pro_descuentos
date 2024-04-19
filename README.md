@@ -1,8 +1,24 @@
-# React + Vite
+# Pro-Descuento
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto publico para las practicas de habilidades y nuevas implementaciones.
 
-Currently, two official plugins are available:
+Se trata de una app que calcula el presio final luego de aplicar un descuento al monto ingresado por el usuario.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+## Se puede utilizar:
+
+1 . Aplicando manualmente el porcentaje, lo que tendra como resultado el presio inicial menos el descuento a aplicar.
+
+2 . Ingresando un codigo de descuento, lo que tendra conmo resultado el presio inicial menos el descuento a aplicar segun al porcentaje de descuento que corresponda el codigo.
+## Tech Stack
+
+React, TailwindCSS
+
+
+## Autor
+
+- [@LeonelCA2696](https://www.github.com/LeonelCA2696)
+
+
